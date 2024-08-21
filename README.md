@@ -1,6 +1,7 @@
 # Injury Severity Prediction: Decision Tree, Random Forest, Neural Network, and Logistic Regression
 
 Overview
+
 This project aims to predict injury severity resulting from vehicle crashes using various machine learning techniques, including Decision Trees, Random Forests, Neural Networks, and Logistic Regression. The analysis is conducted using the KNIME analytics platform, leveraging the CRISP-DM methodology to extract insights from the National Highway Traffic Safety Administration (NHTSA) dataset.
 
 
@@ -69,4 +70,5 @@ Key Figures:
 
 
 Conclusion
+
 The Logistic Regression model emerged as the most accurate predictor of injury severity among the models tested. This model provides valuable insights into risk factors that can inform safety measures and interventions.
