@@ -11,10 +11,12 @@ Objectives
 
 
 Business Understanding
+
 The primary goal is to assist the NHTSA in reducing motor vehicle crash impacts by accurately predicting injury severity. This project utilizes the CRSS dataset, a national probability sample of over 6 million police-reported crashes, to model injury outcomes and inform safety interventions.
 
 
 Data Understanding
+
 The dataset includes over 20 variables related to crash incidents, including driver behavior, vehicle traits, road conditions, and collision dynamics. Careful preprocessing was required to handle missing values, anomalies, and categorical data transformation for effective modeling.
 
 
